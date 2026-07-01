@@ -1,0 +1,6 @@
+git config --global user.name "José Pablo Carbajal Solano"
+git config --global user.email "jpablocarbajalsolano@gmail.com"
+git commit -m "Primer commit"
+git branch -M main
+git remote add origin https://github.com/josecs1027/pagina.git
+git push -u origin main
